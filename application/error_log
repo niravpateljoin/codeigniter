@@ -1,0 +1,18 @@
+[31-Oct-2014 08:12:24] PHP Fatal error:  Call to undefined function  mqsql_query() in /home/tricorei/public_html/projects/yourpolitician/application/models/admin/contact_model.php on line 152
+[03-Nov-2014 00:20:40] PHP Parse error:  syntax error, unexpected T_ECHO in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 15
+[03-Nov-2014 00:21:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 15
+[03-Nov-2014 00:24:23] PHP Fatal error:  Call to a member function result() on a non-object in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 17
+[03-Nov-2014 00:59:30] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 20
+[03-Nov-2014 07:29:54] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 40
+[03-Nov-2014 08:14:46] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 38
+[04-Nov-2014 04:21:54] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:22:57] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:23:03] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:23:06] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:23:16] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:23:31] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:23:58] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 04:24:02] PHP Parse error:  syntax error, unexpected '=' in /home/tricorei/public_html/projects/yourpolitician/application/models/front_model.php on line 31
+[04-Nov-2014 06:16:50] PHP Fatal error:  Function name must be a string in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 42
+[04-Nov-2014 06:17:53] PHP Fatal error:  Function name must be a string in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 42
+[04-Nov-2014 07:16:12] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tricorei/public_html/projects/yourpolitician/application/controllers/front.php on line 68
